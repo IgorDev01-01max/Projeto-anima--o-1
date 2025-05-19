@@ -147,16 +147,24 @@ a {
     }
 
    .deu {
+    margin-top: 15px;
     display: flex;
 
    }
 
+   .Cadastrar-se {
+    margin-top: 25px;
+    border-radius: 5px;
+   }
+
     .container-imagens {
        width: 300px;
+       height: 600px;
         margin-top: 24px;
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-right: 65px;
     }
 
     .img-celular {
